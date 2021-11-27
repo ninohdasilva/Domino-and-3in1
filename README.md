@@ -7,7 +7,7 @@ End-of semester project as part of a OOP in Java course.
 
 **Group : [Ninoh](https://github.com/ninohdasilva), José**
 
-<img src="https://github.com/ninohdasilva/Domino-and-3in1/blob/master/GUI_Domino.png" width="50%"  />
+<img src="https://github.com/ninohdasilva/Domino-and-3in1/blob/master/GUI_Domino_cropped.png" width="50%"  />
 
 ## How to run 
 
